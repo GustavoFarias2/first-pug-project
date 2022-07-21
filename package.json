@@ -1,0 +1,12 @@
+{
+  "name": "Pug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pug index.pug -w -o dist"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
